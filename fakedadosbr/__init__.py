@@ -3,7 +3,7 @@ from requests import post
 from bs4 import BeautifulSoup
 
 
-__version__ = '0.0.2.1'
+__version__ = '0.0.2'
 
 
 def fake_cidadao(qtde=1):
